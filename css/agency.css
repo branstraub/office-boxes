@@ -269,14 +269,10 @@ fieldset[disabled] .btn-xl.active {
 header {
     text-align: center;
     color: #fff;
-    background-attachment: scroll;
-    background-image: url(../img/Office-365.jpg);
-    background-position: center center;
-    background-repeat: none;
+    height: 50px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+   
 }
 
 header .intro-text {
